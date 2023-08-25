@@ -1,0 +1,17 @@
+<svg width="136" height="136" viewBox="0 0 136 136" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="shien_btn_icon_4_move1">
+<rect width="136" height="136" fill="#E79695"></rect>
+<path id="bg" d="M0 10.9212C0 4.88959 5.53539 0 12.3636 0H123.636C130.465 0 136 4.88959 136 10.9212V125.079C136 131.11 130.465 136 123.636 136H12.3636C5.53539 136 0 131.11 0 125.079V10.9212Z" fill="#E79695"><animate attributeName="d" dur="4000ms" repeatCount="indefinite" values="M0 10.9212C0 4.88959 5.53539 0 12.3636 0C123.636 0 123.636 0 123.636 0C130.465 0 136 4.88959 136 10.9212C136 125.079 136 125.079 136 125.079C136 131.11 130.465 136 123.636 136C12.3636 136 12.3636 136 12.3636 136C5.53539 136 0 131.11 0 125.079C0 10.9212 0 10.9212 0 10.9212Z;M0 10.9212C0 4.88959 5.53539 0 12.3636 0C123.636 0 123.636 0 123.636 0C130.465 0 136 4.88959 136 10.9212C136 125.079 136 125.079 136 125.079C136 131.11 130.465 136 123.636 136C12.3636 136 12.3636 136 12.3636 136C5.53539 136 0 131.11 0 125.079C0 10.9212 0 10.9212 0 10.9212Z;M0 10.9212C0 4.88959 5.53539 0 12.3636 0C123.636 0 123.636 0 123.636 0C130.465 0 136 4.88959 136 10.9212C136 125.079 136 125.079 136 125.079C136 131.11 130.465 136 123.636 136C12.3636 136 12.3636 136 12.3636 136C5.53539 136 0 131.11 0 125.079C0 10.9212 0 10.9212 0 10.9212Z" calcMode="spline" keyTimes="0; 0.50; 1" keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1"></animate></path>
+<g id="icons/social/sunny-01" clip-path="url(#clip0_1890_14222)">
+<path id="Vector_205557" d="M0 68.0156L136 68.0028" stroke="white" stroke-width="1.5" stroke-linecap="round"><animate attributeName="d" dur="4000ms" repeatCount="indefinite" values="M0 68.0156C136 68.0028 136 68.0028 136 68.0028;M43 68.0039C93 67.9992 93 67.9992 93 67.9992;M0 68.0156C136 68.0028 136 68.0028 136 68.0028" calcMode="spline" keyTimes="0; 0.50; 1" keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1"></animate></path>
+<path id="Vector_205545" d="M68 0L68.444 135.999" stroke="white" stroke-width="1.5" stroke-linecap="round"><animate attributeName="d" dur="4000ms" repeatCount="indefinite" values="M68 0C68.444 135.999 68.444 135.999 68.444 135.999;M68 43C68.1632 92.9997 68.1632 92.9997 68.1632 92.9997;M68 0C68.444 135.999 68.444 135.999 68.444 135.999" calcMode="spline" keyTimes="0; 0.50; 1" keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1"></animate></path>
+<path id="Vector_205554" d="M47.168 47.9531L88.0466 88.8317" stroke="white" stroke-width="1.5" stroke-linecap="round"><animate attributeName="d" dur="4000ms" repeatCount="indefinite" values="M47.168 47.9531C88.0466 88.8317 88.0466 88.8317 88.0466 88.8317;M11 11C125.417 125.417 125.417 125.417 125.417 125.417;M47.168 47.9531C88.0466 88.8317 88.0466 88.8317 88.0466 88.8317" calcMode="spline" keyTimes="0; 0.50; 1" keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1"></animate></path>
+<path id="Vector_205558" d="M47.168 89.0898L88.3028 47.955" stroke="white" stroke-width="1.5" stroke-linecap="round"><animate attributeName="d" dur="4000ms" repeatCount="indefinite" values="M47.168 89.0898C88.3028 47.955 88.3028 47.955 88.3028 47.955;M26 110.266C110.266 25.9997 110.266 25.9997 110.266 25.9997;M47.168 89.0898C88.3028 47.955 88.3028 47.955 88.3028 47.955" calcMode="spline" keyTimes="0; 0.50; 1" keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1"></animate></path>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1890_14222">
+<rect width="136" height="136" fill="white"></rect>
+</clipPath>
+</defs>
+</svg>
